@@ -13,7 +13,8 @@ This repository contains a Unity project focused on creating an immersive and mi
 - [Usage](#usage)
 
 
-**Demo Video** 
+## Demo Video
+ 
 This link contains short demonstration of our prototype [Short demo video](https://drive.google.com/file/d/1mzu19lN2nrXaSq8UAKcHZURW4YxfEwX-/view?usp=drivesdk)
 This link contains the brief demonstration of the prototype [Long demo video](https://drive.google.com/file/d/1n2oVB8LoPnpG-xfziWYShRfTiyS56QbY/view?usp=drivesdk)
 
