@@ -1,0 +1,606 @@
+[2023-05-21 09:56:53.588] [10744] [debug] [iris_logger.cc:92] ./agora-iris.log
+[2023-05-21 09:56:53.962] [10744] [debug] [iris_rtc_device_manager_impl.cc:29] IrisRtcDeviceManagerImpl Initialize
+[2023-05-21 09:56:53.971] [10744] [debug] [iris_rtc_media_player_impl.cc:32] IrisMediaPlayerImpl Initialize
+[2023-05-21 09:56:53.971] [10744] [debug] [iris_rtc_spatial_audio_engine_impl.cc:207] IrisLocalSpatialAudioEngineImpl Initialize
+[2023-05-21 09:56:53.971] [10744] [debug] [iris_rtc_media_recoder_impl.cc:19] IrisMediaRecoderImpl Initialize
+[2023-05-21 09:56:53.973] [10744] [debug] [iris_rtc_music_center_impl.cc:25] IrisMusicPlayerImpl Initialize
+[2023-05-21 09:56:53.973] [10744] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 09:56:53.981] [10744] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setAppType params {"appType":2}
+[2023-05-21 09:56:53.982] [10744] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 09:56:53.983] [10744] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_registerEventHandler params {"event":1795531086192}
+[2023-05-21 09:56:53.984] [10744] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 09:56:53.985] [10744] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_enableAudio params {}
+[2023-05-21 09:56:53.985] [10744] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 09:56:53.986] [10744] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_enableVideo params {}
+[2023-05-21 09:56:53.986] [10744] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 09:56:53.987] [10744] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setVideoEncoderConfiguration params {"config":{"advanceOptions":{"compressionPreference":0,"encodingPreference":-1},"bitrate":0,"codecType":2,"degradationPreference":0,"dimensions":{"height":360,"width":640},"frameRate":15,"minBitrate":-1,"mirrorMode":2,"orientationMode":0}}
+[2023-05-21 09:56:53.988] [10744] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 09:56:53.988] [10744] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setChannelProfile params {"profile":0}
+[2023-05-21 09:56:53.988] [10744] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 09:56:53.988] [10744] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setClientRole params {"role":1}
+[2023-05-21 09:56:53.991] [10744] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 09:56:54.001] [10744] [debug] [iris_rtc_engine_impl.cc:112] api name RtcEngine_initialize params {"context":{"appId":"3caa***************61c9","areaCode":4294967295,"audioScenario":0,"channelProfile":1,"context":0,"license":"","logConfig":{"filePath":"","fileSizeInKB":0,"level":1},"useExternalEglContext":false}}
+[2023-05-21 09:56:54.001] [10744] [debug] [iris_rtc_device_manager_impl.cc:29] IrisRtcDeviceManagerImpl Initialize
+[2023-05-21 09:56:54.004] [10744] [debug] [iris_rtc_media_player_impl.cc:32] IrisMediaPlayerImpl Initialize
+[2023-05-21 09:56:54.004] [10744] [debug] [iris_rtc_spatial_audio_engine_impl.cc:207] IrisLocalSpatialAudioEngineImpl Initialize
+[2023-05-21 09:56:54.004] [10744] [debug] [iris_rtc_media_recoder_impl.cc:19] IrisMediaRecoderImpl Initialize
+[2023-05-21 09:56:54.004] [10744] [debug] [iris_rtc_music_center_impl.cc:25] IrisMusicPlayerImpl Initialize
+[2023-05-21 09:56:54.004] [10744] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 09:56:54.004] [10744] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setAppType params {"appType":2}
+[2023-05-21 09:56:54.004] [10744] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 09:56:54.004] [10744] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_enableAudio params {}
+[2023-05-21 09:56:54.004] [10744] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 09:56:54.004] [10744] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_enableVideo params {}
+[2023-05-21 09:56:54.005] [10744] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 09:56:54.005] [10744] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setClientRole params {"role":1}
+[2023-05-21 09:56:54.005] [10744] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 09:56:54.007] [10744] [debug] [iris_rtc_engine_impl.cc:112] api name RtcEngine_initialize params {"context":{"appId":"3caa***************61c9","areaCode":4294967295,"audioScenario":0,"channelProfile":1,"context":0,"license":"","logConfig":{"filePath":"","fileSizeInKB":0,"level":1},"useExternalEglContext":false}}
+[2023-05-21 09:56:54.007] [10744] [debug] [iris_rtc_device_manager_impl.cc:29] IrisRtcDeviceManagerImpl Initialize
+[2023-05-21 09:56:54.009] [10744] [debug] [iris_rtc_media_player_impl.cc:32] IrisMediaPlayerImpl Initialize
+[2023-05-21 09:56:54.009] [10744] [debug] [iris_rtc_spatial_audio_engine_impl.cc:207] IrisLocalSpatialAudioEngineImpl Initialize
+[2023-05-21 09:56:54.009] [10744] [debug] [iris_rtc_media_recoder_impl.cc:19] IrisMediaRecoderImpl Initialize
+[2023-05-21 09:56:54.009] [10744] [debug] [iris_rtc_music_center_impl.cc:25] IrisMusicPlayerImpl Initialize
+[2023-05-21 09:56:54.009] [10744] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 09:56:54.009] [10744] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setAppType params {"appType":2}
+[2023-05-21 09:56:54.009] [10744] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 09:56:54.009] [10744] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_enableAudio params {}
+[2023-05-21 09:56:54.009] [10744] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 09:56:54.009] [10744] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_enableVideo params {}
+[2023-05-21 09:56:54.009] [10744] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 09:56:54.010] [10744] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setClientRole params {"role":1}
+[2023-05-21 09:56:54.010] [10744] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 09:56:55.575] [10744] [debug] [iris_rtc_engine_impl.cc:112] api name RtcEngine_renewToken params {"token":"006c***************sWlk"}
+[2023-05-21 09:56:55.575] [10744] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 10:00:38.475] [10744] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_stopPreview params {}
+[2023-05-21 10:00:38.476] [10744] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 10:00:38.478] [10744] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_updateChannelMediaOptions params {"options":{"publishCameraTrack":false,"publishMicrophoneTrack":false}}
+[2023-05-21 10:00:38.479] [10744] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":-8}
+[2023-05-21 10:00:38.480] [10744] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_getScreenCaptureSources params {"iconSize":{"height":240,"width":360},"includeScreen":true,"thumbSize":{"height":240,"width":360}}
+[2023-05-21 10:00:38.690] [10744] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":[{"iconImage":{"buffer":0,"height":0,"length":0,"width":0},"isOccluded":false,"minimizeWindow":false,"primaryMonitor":true,"processPath":"","sourceId":0,"sourceName":"\\\\.\\DISPLAY1","sourceTitle":"\\\\.\\DISPLAY1","thumbImage":{"buffer":1796968732208,"height":220,"length":343200,"width":390},"type":1},{"iconImage":{"buffer":1794381979664,"height":40,"length":6400,"width":40},"isOccluded":false,"minimizeWindow":false,"primaryMonitor":false,"processPath":"C:\\Users\\gokul\\OneDrive\\Desktop\\Jatayu\\FinalBuild\\Jatayu.exe","sourceId":10290460,"sourceName":"Jatayu","sourceTitle":"Jatayu","thumbImage":{"buffer":1796969075424,"height":220,"length":343200,"width":390},"type":0},{"iconImage":{"buffer":1794382080768,"height":40,"length":6400,"width":40},"isOccluded":false,"minimizeWindow":false,"primaryMonitor":false,"processPath":"C:\\Windows\\explorer.exe","sourceId":723330,"sourceName":"FinalBuild","sourceTitle":"FinalBuild","thumbImage":{"buffer":1796969418640,"height":216,"length":342144,"width":396},"type":0},{"iconImage":{"buffer":1794382087184,"height":40,"length":6400,"width":40},"isOccluded":false,"minimizeWindow":false,"primaryMonitor":false,"processPath":"C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe","sourceId":66632,"sourceName":"(2) WhatsApp - Brave","sourceTitle":"(2) WhatsApp - Brave","thumbImage":{"buffer":1796969760800,"height":254,"length":343408,"width":338},"type":0},{"iconImage":{"buffer":1794382093600,"height":40,"length":6400,"width":40},"isOccluded":false,"minimizeWindow":false,"primaryMonitor":false,"processPath":"C:\\installed apps\\Unity Hub\\Unity Hub.exe","sourceId":16123688,"sourceName":"Unity Hub 3.4.1","sourceTitle":"Unity Hub 3.4.1","thumbImage":{"buffer":1796967772176,"height":254,"length":343408,"width":338},"type":0},{"iconImage":{"buffer":1794382100016,"height":40,"length":6400,"width":40},"isOccluded":false,"minimizeWindow":false,"primaryMonitor":false,"processPath":"C:\\Program Files\\NVIDIA Corporation\\NVIDIA GeForce Experience\\NVIDIA Share.exe","sourceId":132348,"sourceName":"NVIDIA GeForce Overlay","sourceTitle":"NVIDIA GeForce Overlay","thumbImage":{"buffer":1796968115600,"height":220,"length":343200,"width":390},"type":0}],"sources":1794389853760}
+[2023-05-21 10:00:38.700] [10744] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_releaseScreenCaptureSources params {"sources":1794389853760}
+[2023-05-21 10:00:38.700] [10744] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 10:00:38.702] [10744] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_stopScreenCapture params {}
+[2023-05-21 10:00:38.702] [10744] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 10:00:38.703] [10744] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_startScreenCaptureByDisplayId params {"captureParams":{"bitrate":0,"captureMouseCursor":true,"dimensions":{"height":1080,"width":1920},"enableHighLight":false,"excludeWindowCount":0,"excludeWindowList":[],"frameRate":30,"highLightColor":0,"highLightWidth":0,"windowFocus":false},"displayId":0,"regionRect":null}
+[2023-05-21 10:00:38.785] [10744] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 10:00:38.796] [10744] [debug] [iris_video_processor.cc:338] type 2 bytes_per_row 2 id 0 key 
+[2023-05-21 10:01:33.115] [10744] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_stopScreenCapture params {}
+[2023-05-21 10:01:33.123] [10744] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 10:01:33.126] [10744] [debug] [iris_video_processor.cc:365] uid 0 key 
+[2023-05-21 10:01:33.126] [10744] [debug] [iris_video_processor.cc:344] delegate
+[2023-05-21 10:01:33.872] [10744] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_stopScreenCapture params {}
+[2023-05-21 10:01:33.872] [10744] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 10:01:33.872] [10744] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_startPreview params {}
+[2023-05-21 10:01:33.887] [10744] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 10:01:33.889] [10744] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_updateChannelMediaOptions params {"options":{"publishCameraTrack":true,"publishMicrophoneTrack":true}}
+[2023-05-21 10:01:33.889] [10744] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":-8}
+[2023-05-21 10:01:33.895] [10744] [debug] [iris_video_processor.cc:338] type 2 bytes_per_row 2 id 0 key 
+[2023-05-21 10:01:41.116] [10744] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_updateChannelMediaOptions params {"options":{"publishCameraTrack":false,"publishMicrophoneTrack":false}}
+[2023-05-21 10:01:41.116] [10744] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":-8}
+[2023-05-21 10:01:41.116] [10744] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_stopPreview params {}
+[2023-05-21 10:01:41.118] [10744] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 10:01:41.119] [10744] [debug] [iris_video_processor.cc:365] uid 0 key 
+[2023-05-21 10:01:41.119] [10744] [debug] [iris_video_processor.cc:344] delegate
+[2023-05-21 10:01:44.660] [10744] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_unregisterEventHandler params {"event":1795531086192}
+[2023-05-21 10:01:44.660] [10744] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 10:01:44.662] [10744] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_release params {"sync":false}
+[2023-05-21 10:01:44.662] [10744] [debug] [iris_rtc_engine_impl.cc:233] IrisRtcEngineImpl __release
+[2023-05-21 10:01:44.662] [10744] [debug] [iris_rtc_device_manager_impl.cc:36] IrisRtcDeviceManagerImpl Release
+[2023-05-21 10:01:44.662] [10744] [debug] [iris_rtc_device_manager_wrapper.cc:791] IDeviceManagerWrapper Release
+[2023-05-21 10:01:44.663] [10744] [debug] [iris_rtc_media_player_impl.cc:43] IrisMediaPlayerImpl Release
+[2023-05-21 10:01:44.673] [10744] [debug] [iris_rtc_media_player_wrapper.cc:39] IMediaPlayerWrapper release
+[2023-05-21 10:01:44.673] [10744] [debug] [iris_rtc_spatial_audio_engine_impl.cc:214] IrisLocalSpatialAudioEngineImpl Release
+[2023-05-21 10:01:44.673] [10744] [debug] [iris_rtc_spatial_audio_engine_wrapper.cc:388] ILocalSpatialAudioEngineWrapper release
+[2023-05-21 10:01:44.673] [10744] [debug] [iris_rtc_media_recoder_impl.cc:26] IrisMediaRecoderImpl Release
+[2023-05-21 10:01:44.673] [10744] [debug] [iris_rtc_media_recoder_wrapper.cc:37] IMediaRecoderWrapper Release
+[2023-05-21 10:01:44.673] [10744] [debug] [iris_rtc_music_center_impl.cc:31] IrisMusicCenterImpl Release
+[2023-05-21 10:01:44.673] [10744] [debug] [iris_rtc_music_center_wrapper.cc:28] IrisMusicContentCenterWrapper release
+[2023-05-21 10:01:44.674] [10744] [debug] [iris_rtc_engine_wrapper.cc:8191] IRtcEngineWrapper release
+[2023-05-21 10:01:44.708] [10744] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 10:01:44.709] [10744] [debug] [iris_rtc_engine_impl.cc:49] IrisRtcEngineImpl Destroy
+[2023-05-21 10:01:44.709] [10744] [debug] [iris_rtc_music_center_impl.cc:21] IrisMusiImpl Destroy
+[2023-05-21 10:01:44.709] [10744] [debug] [iris_rtc_media_recoder_impl.cc:15] IrisMediaRecoderImpl Destroy
+[2023-05-21 10:01:44.709] [10744] [debug] [iris_rtc_spatial_audio_engine_impl.cc:203] IrisLocalSpatialAudioEngineImpl Destroy
+[2023-05-21 10:01:44.709] [10744] [debug] [iris_rtc_media_player_impl.cc:28] IrisMediaPlayerImpl Destroy
+[2023-05-21 10:01:44.709] [10744] [debug] [iris_rtc_device_manager_impl.cc:25] IrisRtcDeviceManagerImpl Destroy
+[2023-05-21 11:04:05.276] [38760] [debug] [iris_logger.cc:92] ./agora-iris.log
+[2023-05-21 11:04:05.436] [38760] [debug] [iris_rtc_device_manager_impl.cc:29] IrisRtcDeviceManagerImpl Initialize
+[2023-05-21 11:04:05.443] [38760] [debug] [iris_rtc_media_player_impl.cc:32] IrisMediaPlayerImpl Initialize
+[2023-05-21 11:04:05.443] [38760] [debug] [iris_rtc_spatial_audio_engine_impl.cc:207] IrisLocalSpatialAudioEngineImpl Initialize
+[2023-05-21 11:04:05.443] [38760] [debug] [iris_rtc_media_recoder_impl.cc:19] IrisMediaRecoderImpl Initialize
+[2023-05-21 11:04:05.444] [38760] [debug] [iris_rtc_music_center_impl.cc:25] IrisMusicPlayerImpl Initialize
+[2023-05-21 11:04:05.444] [38760] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 11:04:05.452] [38760] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setAppType params {"appType":2}
+[2023-05-21 11:04:05.452] [38760] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 11:04:05.454] [38760] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_registerEventHandler params {"event":1563420686288}
+[2023-05-21 11:04:05.454] [38760] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 11:04:05.454] [38760] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_enableAudio params {}
+[2023-05-21 11:04:05.456] [38760] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 11:04:05.456] [38760] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_enableVideo params {}
+[2023-05-21 11:04:05.457] [38760] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 11:04:05.457] [38760] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setVideoEncoderConfiguration params {"config":{"advanceOptions":{"compressionPreference":0,"encodingPreference":-1},"bitrate":0,"codecType":2,"degradationPreference":0,"dimensions":{"height":360,"width":640},"frameRate":15,"minBitrate":-1,"mirrorMode":2,"orientationMode":0}}
+[2023-05-21 11:04:05.458] [38760] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 11:04:05.459] [38760] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setChannelProfile params {"profile":0}
+[2023-05-21 11:04:05.459] [38760] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 11:04:05.459] [38760] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setClientRole params {"role":1}
+[2023-05-21 11:04:05.462] [38760] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 11:04:05.478] [38760] [debug] [iris_rtc_engine_impl.cc:112] api name RtcEngine_initialize params {"context":{"appId":"3caa***************61c9","areaCode":4294967295,"audioScenario":0,"channelProfile":1,"context":0,"license":"","logConfig":{"filePath":"","fileSizeInKB":0,"level":1},"useExternalEglContext":false}}
+[2023-05-21 11:04:05.478] [38760] [debug] [iris_rtc_device_manager_impl.cc:29] IrisRtcDeviceManagerImpl Initialize
+[2023-05-21 11:04:05.486] [38760] [debug] [iris_rtc_media_player_impl.cc:32] IrisMediaPlayerImpl Initialize
+[2023-05-21 11:04:05.486] [38760] [debug] [iris_rtc_spatial_audio_engine_impl.cc:207] IrisLocalSpatialAudioEngineImpl Initialize
+[2023-05-21 11:04:05.486] [38760] [debug] [iris_rtc_media_recoder_impl.cc:19] IrisMediaRecoderImpl Initialize
+[2023-05-21 11:04:05.488] [38760] [debug] [iris_rtc_music_center_impl.cc:25] IrisMusicPlayerImpl Initialize
+[2023-05-21 11:04:05.488] [38760] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 11:04:05.488] [38760] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setAppType params {"appType":2}
+[2023-05-21 11:04:05.488] [38760] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 11:04:05.488] [38760] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_enableAudio params {}
+[2023-05-21 11:04:05.488] [38760] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 11:04:05.488] [38760] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_enableVideo params {}
+[2023-05-21 11:04:05.489] [38760] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 11:04:05.489] [38760] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setClientRole params {"role":1}
+[2023-05-21 11:04:05.489] [38760] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 11:04:05.491] [38760] [debug] [iris_rtc_engine_impl.cc:112] api name RtcEngine_initialize params {"context":{"appId":"3caa***************61c9","areaCode":4294967295,"audioScenario":0,"channelProfile":1,"context":0,"license":"","logConfig":{"filePath":"","fileSizeInKB":0,"level":1},"useExternalEglContext":false}}
+[2023-05-21 11:04:05.491] [38760] [debug] [iris_rtc_device_manager_impl.cc:29] IrisRtcDeviceManagerImpl Initialize
+[2023-05-21 11:04:05.493] [38760] [debug] [iris_rtc_media_player_impl.cc:32] IrisMediaPlayerImpl Initialize
+[2023-05-21 11:04:05.493] [38760] [debug] [iris_rtc_spatial_audio_engine_impl.cc:207] IrisLocalSpatialAudioEngineImpl Initialize
+[2023-05-21 11:04:05.493] [38760] [debug] [iris_rtc_media_recoder_impl.cc:19] IrisMediaRecoderImpl Initialize
+[2023-05-21 11:04:05.494] [38760] [debug] [iris_rtc_music_center_impl.cc:25] IrisMusicPlayerImpl Initialize
+[2023-05-21 11:04:05.494] [38760] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 11:04:05.494] [38760] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setAppType params {"appType":2}
+[2023-05-21 11:04:05.494] [38760] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 11:04:05.494] [38760] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_enableAudio params {}
+[2023-05-21 11:04:05.494] [38760] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 11:04:05.494] [38760] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_enableVideo params {}
+[2023-05-21 11:04:05.494] [38760] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 11:04:05.494] [38760] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setClientRole params {"role":1}
+[2023-05-21 11:04:05.494] [38760] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 11:04:05.604] [38760] [debug] [iris_rtc_engine_impl.cc:112] api name RtcEngine_joinChannel params {"channelId":"muruga","info":"","token":"007e***************zw==","uid":0}
+[2023-05-21 11:04:05.677] [38760] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 11:04:05.681] [38760] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_startPreview params {}
+[2023-05-21 11:04:05.681] [38760] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 11:04:05.683] [38760] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_updateChannelMediaOptions params {"options":{"publishCameraTrack":true,"publishMicrophoneTrack":true}}
+[2023-05-21 11:04:05.695] [38760] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 11:04:05.782] [38760] [debug] [iris_video_processor.cc:338] type 2 bytes_per_row 2 id 0 key 
+[2023-05-21 11:04:05.814] [38760] [debug] [iris_rtc_engine_impl.cc:112] api name RtcEngine_joinChannel params {"channelId":"muruga","info":"","token":"007e***************zw==","uid":0}
+[2023-05-21 11:04:05.815] [38760] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":-8}
+[2023-05-21 11:04:05.815] [38760] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_startPreview params {}
+[2023-05-21 11:04:05.815] [38760] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 11:04:05.815] [38760] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_updateChannelMediaOptions params {"options":{"publishCameraTrack":true,"publishMicrophoneTrack":true}}
+[2023-05-21 11:04:05.816] [38760] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 11:04:05.948] [38760] [error] [rtc_engine_event_handler.cc:112] err 110 msg 
+[2023-05-21 11:04:05.958] [38760] [error] [rtc_engine_event_handler.cc:112] err 110 msg 
+[2023-05-21 11:04:06.004] [38760] [error] [rtc_engine_event_handler.cc:112] err 110 msg 
+[2023-05-21 11:04:06.108] [38760] [error] [rtc_engine_event_handler.cc:112] err 110 msg 
+[2023-05-21 11:04:06.811] [38760] [debug] [iris_rtc_engine_impl.cc:112] api name RtcEngine_renewToken params {"token":"006c***************wGlk"}
+[2023-05-21 11:04:06.811] [38760] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 11:04:07.320] [38760] [info] [rtc_engine_event_handler.cc:85] channel muruga uid 0
+[2023-05-21 11:04:07.345] [38760] [info] [rtc_engine_event_handler.cc:1524] channel muruga uid 0 remoteUid 3940708374
+[2023-05-21 11:04:07.358] [38760] [debug] [iris_video_processor.cc:338] type 2 bytes_per_row 2 id 3940708374 key 
+[2023-05-21 11:04:15.662] [38760] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_updateChannelMediaOptions params {"options":{"publishCameraTrack":false,"publishMicrophoneTrack":false}}
+[2023-05-21 11:04:15.678] [38760] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 11:04:15.680] [38760] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_stopPreview params {}
+[2023-05-21 11:04:15.696] [38760] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 11:04:15.699] [38760] [debug] [iris_video_processor.cc:365] uid 0 key 
+[2023-05-21 11:04:15.700] [38760] [debug] [iris_video_processor.cc:344] delegate
+[2023-05-21 11:04:17.876] [38760] [debug] [iris_rtc_engine_impl.cc:112] api name RtcEngine_joinChannel params {"channelId":"","info":"","token":"007e***************zw==","uid":0}
+[2023-05-21 11:04:17.876] [38760] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":-8}
+[2023-05-21 11:04:17.876] [38760] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_stopPreview params {}
+[2023-05-21 11:04:17.877] [38760] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 11:04:17.877] [38760] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_updateChannelMediaOptions params {"options":{"publishCameraTrack":false,"publishMicrophoneTrack":false}}
+[2023-05-21 11:04:17.877] [38760] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 11:04:17.880] [38760] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_getScreenCaptureSources params {"iconSize":{"height":240,"width":360},"includeScreen":true,"thumbSize":{"height":240,"width":360}}
+[2023-05-21 11:04:18.196] [38760] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":[{"iconImage":{"buffer":0,"height":0,"length":0,"width":0},"isOccluded":false,"minimizeWindow":false,"primaryMonitor":true,"processPath":"","sourceId":0,"sourceName":"\\\\.\\DISPLAY1","sourceTitle":"\\\\.\\DISPLAY1","thumbImage":{"buffer":1563393250320,"height":220,"length":343200,"width":390},"type":1},{"iconImage":{"buffer":1564757172656,"height":40,"length":6400,"width":40},"isOccluded":false,"minimizeWindow":false,"primaryMonitor":false,"processPath":"C:\\Users\\gokul\\OneDrive\\Desktop\\Jatayu\\FinalBuild\\Jatayu.exe","sourceId":199660,"sourceName":"Jatayu","sourceTitle":"Jatayu","thumbImage":{"buffer":1564768008080,"height":220,"length":343200,"width":390},"type":0},{"iconImage":{"buffer":1564759488336,"height":40,"length":6400,"width":40},"isOccluded":false,"minimizeWindow":false,"primaryMonitor":false,"processPath":"C:\\Windows\\explorer.exe","sourceId":22088236,"sourceName":"FinalBuild","sourceTitle":"FinalBuild","thumbImage":{"buffer":1564755647792,"height":216,"length":342144,"width":396},"type":0},{"iconImage":{"buffer":1563401055792,"height":40,"length":6400,"width":40},"isOccluded":false,"minimizeWindow":false,"primaryMonitor":false,"processPath":"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\Common7\\IDE\\devenv.exe","sourceId":12060950,"sourceName":"Jatayu - Microsoft Visual Studio","sourceTitle":"Jatayu - Microsoft Visual Studio","thumbImage":{"buffer":1564755989952,"height":220,"length":343200,"width":390},"type":0},{"iconImage":{"buffer":1564759247552,"height":40,"length":6400,"width":40},"isOccluded":false,"minimizeWindow":false,"primaryMonitor":false,"processPath":"C:\\installed apps\\Unity Hub\\Unity Hub.exe","sourceId":16123688,"sourceName":"Unity Hub 3.4.1","sourceTitle":"Unity Hub 3.4.1","thumbImage":{"buffer":1564761350208,"height":254,"length":343408,"width":338},"type":0},{"iconImage":{"buffer":1564755636912,"height":40,"length":6400,"width":40},"isOccluded":false,"minimizeWindow":true,"primaryMonitor":false,"processPath":"C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe","sourceId":66632,"sourceName":"Your Photon Cloud | Photon Engine - Brave","sourceTitle":"Your Photon Cloud | Photon Engine - Brave","thumbImage":{"buffer":1564761693632,"height":254,"length":343408,"width":338},"type":0},{"iconImage":{"buffer":1562273852560,"height":40,"length":6400,"width":40},"isOccluded":false,"minimizeWindow":false,"primaryMonitor":false,"processPath":"C:\\Program Files\\NVIDIA Corporation\\NVIDIA GeForce Experience\\NVIDIA Share.exe","sourceId":132348,"sourceName":"NVIDIA GeForce Overlay","sourceTitle":"NVIDIA GeForce Overlay","thumbImage":{"buffer":1564764266512,"height":220,"length":343200,"width":390},"type":0}],"sources":1562270931888}
+[2023-05-21 11:04:18.207] [38760] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_releaseScreenCaptureSources params {"sources":1562270931888}
+[2023-05-21 11:04:18.207] [38760] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 11:04:18.210] [38760] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_stopScreenCapture params {}
+[2023-05-21 11:04:18.210] [38760] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 11:04:18.211] [38760] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_startScreenCaptureByDisplayId params {"captureParams":{"bitrate":0,"captureMouseCursor":true,"dimensions":{"height":1080,"width":1920},"enableHighLight":false,"excludeWindowCount":0,"excludeWindowList":[],"frameRate":30,"highLightColor":0,"highLightWidth":0,"windowFocus":false},"displayId":0,"regionRect":null}
+[2023-05-21 11:04:18.325] [38760] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 11:04:18.333] [38760] [debug] [iris_video_processor.cc:338] type 2 bytes_per_row 2 id 0 key 
+[2023-05-21 11:04:25.714] [38760] [debug] [iris_video_processor.cc:365] uid 3940708374 key 
+[2023-05-21 11:04:25.714] [38760] [debug] [iris_video_processor.cc:344] delegate
+[2023-05-21 11:04:25.714] [38760] [debug] [iris_video_processor.cc:365] uid 0 key 
+[2023-05-21 11:04:25.715] [38760] [debug] [iris_video_processor.cc:344] delegate
+[2023-05-21 11:04:25.715] [38760] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_unregisterEventHandler params {"event":1563420686288}
+[2023-05-21 11:04:25.715] [38760] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 11:04:25.719] [38760] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_release params {"sync":false}
+[2023-05-21 11:04:25.719] [38760] [debug] [iris_rtc_engine_impl.cc:233] IrisRtcEngineImpl __release
+[2023-05-21 11:04:25.719] [38760] [debug] [iris_rtc_device_manager_impl.cc:36] IrisRtcDeviceManagerImpl Release
+[2023-05-21 11:04:25.719] [38760] [debug] [iris_rtc_device_manager_wrapper.cc:791] IDeviceManagerWrapper Release
+[2023-05-21 11:04:25.719] [38760] [debug] [iris_rtc_media_player_impl.cc:43] IrisMediaPlayerImpl Release
+[2023-05-21 11:04:25.719] [38760] [debug] [iris_rtc_media_player_wrapper.cc:39] IMediaPlayerWrapper release
+[2023-05-21 11:04:25.719] [38760] [debug] [iris_rtc_spatial_audio_engine_impl.cc:214] IrisLocalSpatialAudioEngineImpl Release
+[2023-05-21 11:04:25.719] [38760] [debug] [iris_rtc_spatial_audio_engine_wrapper.cc:388] ILocalSpatialAudioEngineWrapper release
+[2023-05-21 11:04:25.719] [38760] [debug] [iris_rtc_media_recoder_impl.cc:26] IrisMediaRecoderImpl Release
+[2023-05-21 11:04:25.719] [38760] [debug] [iris_rtc_media_recoder_wrapper.cc:37] IMediaRecoderWrapper Release
+[2023-05-21 11:04:25.719] [38760] [debug] [iris_rtc_music_center_impl.cc:31] IrisMusicCenterImpl Release
+[2023-05-21 11:04:25.719] [38760] [debug] [iris_rtc_music_center_wrapper.cc:28] IrisMusicContentCenterWrapper release
+[2023-05-21 11:04:25.719] [38760] [debug] [iris_rtc_engine_wrapper.cc:8191] IRtcEngineWrapper release
+[2023-05-21 11:04:25.741] [38760] [info] [rtc_engine_event_handler.cc:1316] channel muruga uid 0
+[2023-05-21 11:04:25.786] [38760] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 11:04:25.786] [38760] [debug] [iris_rtc_engine_impl.cc:49] IrisRtcEngineImpl Destroy
+[2023-05-21 11:04:25.786] [38760] [debug] [iris_rtc_music_center_impl.cc:21] IrisMusiImpl Destroy
+[2023-05-21 11:04:25.786] [38760] [debug] [iris_rtc_media_recoder_impl.cc:15] IrisMediaRecoderImpl Destroy
+[2023-05-21 11:04:25.786] [38760] [debug] [iris_rtc_spatial_audio_engine_impl.cc:203] IrisLocalSpatialAudioEngineImpl Destroy
+[2023-05-21 11:04:25.786] [38760] [debug] [iris_rtc_media_player_impl.cc:28] IrisMediaPlayerImpl Destroy
+[2023-05-21 11:04:25.786] [38760] [debug] [iris_rtc_device_manager_impl.cc:25] IrisRtcDeviceManagerImpl Destroy
+[2023-05-21 13:07:50.684] [3024] [debug] [iris_logger.cc:92] ./agora-iris.log
+[2023-05-21 13:07:50.879] [3024] [debug] [iris_rtc_device_manager_impl.cc:29] IrisRtcDeviceManagerImpl Initialize
+[2023-05-21 13:07:50.886] [3024] [debug] [iris_rtc_media_player_impl.cc:32] IrisMediaPlayerImpl Initialize
+[2023-05-21 13:07:50.886] [3024] [debug] [iris_rtc_spatial_audio_engine_impl.cc:207] IrisLocalSpatialAudioEngineImpl Initialize
+[2023-05-21 13:07:50.886] [3024] [debug] [iris_rtc_media_recoder_impl.cc:19] IrisMediaRecoderImpl Initialize
+[2023-05-21 13:07:50.887] [3024] [debug] [iris_rtc_music_center_impl.cc:25] IrisMusicPlayerImpl Initialize
+[2023-05-21 13:07:50.887] [3024] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 13:07:50.896] [3024] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setAppType params {"appType":2}
+[2023-05-21 13:07:50.897] [3024] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 13:07:50.898] [3024] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_registerEventHandler params {"event":2097580777200}
+[2023-05-21 13:07:50.898] [3024] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 13:07:50.900] [3024] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_enableAudio params {}
+[2023-05-21 13:07:50.901] [3024] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 13:07:50.902] [3024] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_enableVideo params {}
+[2023-05-21 13:07:50.902] [3024] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 13:07:50.903] [3024] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setVideoEncoderConfiguration params {"config":{"advanceOptions":{"compressionPreference":0,"encodingPreference":-1},"bitrate":0,"codecType":2,"degradationPreference":0,"dimensions":{"height":360,"width":640},"frameRate":15,"minBitrate":-1,"mirrorMode":2,"orientationMode":0}}
+[2023-05-21 13:07:50.904] [3024] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 13:07:50.904] [3024] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setChannelProfile params {"profile":0}
+[2023-05-21 13:07:50.905] [3024] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 13:07:50.905] [3024] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setClientRole params {"role":1}
+[2023-05-21 13:07:50.909] [3024] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 13:07:50.922] [3024] [debug] [iris_rtc_engine_impl.cc:112] api name RtcEngine_initialize params {"context":{"appId":"3caa***************61c9","areaCode":4294967295,"audioScenario":0,"channelProfile":1,"context":0,"license":"","logConfig":{"filePath":"","fileSizeInKB":0,"level":1},"useExternalEglContext":false}}
+[2023-05-21 13:07:50.922] [3024] [debug] [iris_rtc_device_manager_impl.cc:29] IrisRtcDeviceManagerImpl Initialize
+[2023-05-21 13:07:50.925] [3024] [debug] [iris_rtc_media_player_impl.cc:32] IrisMediaPlayerImpl Initialize
+[2023-05-21 13:07:50.925] [3024] [debug] [iris_rtc_spatial_audio_engine_impl.cc:207] IrisLocalSpatialAudioEngineImpl Initialize
+[2023-05-21 13:07:50.925] [3024] [debug] [iris_rtc_media_recoder_impl.cc:19] IrisMediaRecoderImpl Initialize
+[2023-05-21 13:07:50.927] [3024] [debug] [iris_rtc_music_center_impl.cc:25] IrisMusicPlayerImpl Initialize
+[2023-05-21 13:07:50.927] [3024] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 13:07:50.928] [3024] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setAppType params {"appType":2}
+[2023-05-21 13:07:50.928] [3024] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 13:07:50.928] [3024] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_enableAudio params {}
+[2023-05-21 13:07:50.928] [3024] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 13:07:50.928] [3024] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_enableVideo params {}
+[2023-05-21 13:07:50.928] [3024] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 13:07:50.929] [3024] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setClientRole params {"role":1}
+[2023-05-21 13:07:50.929] [3024] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 13:07:51.077] [3024] [debug] [iris_rtc_engine_impl.cc:112] api name RtcEngine_joinChannel params {"channelId":"abc","info":"","token":"007e***************zw==","uid":0}
+[2023-05-21 13:07:51.168] [3024] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 13:07:51.174] [3024] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_startPreview params {}
+[2023-05-21 13:07:51.183] [3024] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 13:07:51.187] [3024] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_updateChannelMediaOptions params {"options":{"publishCameraTrack":true,"publishMicrophoneTrack":true}}
+[2023-05-21 13:07:51.189] [3024] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 13:07:51.222] [3024] [debug] [iris_video_processor.cc:338] type 2 bytes_per_row 2 id 0 key 
+[2023-05-21 13:07:51.355] [3024] [error] [rtc_engine_event_handler.cc:112] err 110 msg 
+[2023-05-21 13:07:51.357] [3024] [error] [rtc_engine_event_handler.cc:112] err 110 msg 
+[2023-05-21 13:07:51.395] [3024] [error] [rtc_engine_event_handler.cc:112] err 110 msg 
+[2023-05-21 13:07:52.050] [3024] [debug] [iris_rtc_engine_impl.cc:112] api name RtcEngine_renewToken params {"token":"006c***************3Wlk"}
+[2023-05-21 13:07:52.051] [3024] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 13:07:52.516] [3024] [info] [rtc_engine_event_handler.cc:85] channel abc uid 0
+[2023-05-21 13:08:05.533] [3024] [debug] [iris_rtc_engine_impl.cc:112] api name RtcEngine_joinChannel params {"channelId":"abc","info":"","token":"006c***************3Wlk","uid":0}
+[2023-05-21 13:08:05.534] [3024] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":-8}
+[2023-05-21 13:08:05.535] [3024] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_startPreview params {}
+[2023-05-21 13:08:05.535] [3024] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 13:08:05.536] [3024] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_updateChannelMediaOptions params {"options":{"publishCameraTrack":true,"publishMicrophoneTrack":true}}
+[2023-05-21 13:08:05.537] [3024] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 13:08:07.573] [3024] [info] [rtc_engine_event_handler.cc:1524] channel abc uid 0 remoteUid 2408581710
+[2023-05-21 13:08:07.641] [3024] [debug] [iris_video_processor.cc:338] type 2 bytes_per_row 2 id 2408581710 key 
+[2023-05-21 13:08:36.206] [3024] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_startPreview params {}
+[2023-05-21 13:08:36.206] [3024] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 13:08:38.412] [3024] [debug] [iris_rtc_engine_impl.cc:112] api name RtcEngine_joinChannel params {"channelId":"abc","info":"","token":"006c***************3Wlk","uid":0}
+[2023-05-21 13:08:38.412] [3024] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":-8}
+[2023-05-21 13:08:39.400] [3024] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_updateChannelMediaOptions params {"options":{"publishCameraTrack":true,"publishMicrophoneTrack":true}}
+[2023-05-21 13:08:39.400] [3024] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 13:08:55.646] [3024] [debug] [iris_video_processor.cc:365] uid 0 key 
+[2023-05-21 13:08:55.646] [3024] [debug] [iris_video_processor.cc:344] delegate
+[2023-05-21 13:08:55.647] [3024] [debug] [iris_video_processor.cc:365] uid 2408581710 key 
+[2023-05-21 13:08:55.647] [3024] [debug] [iris_video_processor.cc:344] delegate
+[2023-05-21 13:08:55.648] [3024] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_unregisterEventHandler params {"event":2097580777200}
+[2023-05-21 13:08:55.648] [3024] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 13:08:55.652] [3024] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_release params {"sync":false}
+[2023-05-21 13:08:55.652] [3024] [debug] [iris_rtc_engine_impl.cc:233] IrisRtcEngineImpl __release
+[2023-05-21 13:08:55.652] [3024] [debug] [iris_rtc_device_manager_impl.cc:36] IrisRtcDeviceManagerImpl Release
+[2023-05-21 13:08:55.652] [3024] [debug] [iris_rtc_device_manager_wrapper.cc:791] IDeviceManagerWrapper Release
+[2023-05-21 13:08:55.652] [3024] [debug] [iris_rtc_media_player_impl.cc:43] IrisMediaPlayerImpl Release
+[2023-05-21 13:08:55.652] [3024] [debug] [iris_rtc_media_player_wrapper.cc:39] IMediaPlayerWrapper release
+[2023-05-21 13:08:55.652] [3024] [debug] [iris_rtc_spatial_audio_engine_impl.cc:214] IrisLocalSpatialAudioEngineImpl Release
+[2023-05-21 13:08:55.652] [3024] [debug] [iris_rtc_spatial_audio_engine_wrapper.cc:388] ILocalSpatialAudioEngineWrapper release
+[2023-05-21 13:08:55.652] [3024] [debug] [iris_rtc_media_recoder_impl.cc:26] IrisMediaRecoderImpl Release
+[2023-05-21 13:08:55.652] [3024] [debug] [iris_rtc_media_recoder_wrapper.cc:37] IMediaRecoderWrapper Release
+[2023-05-21 13:08:55.652] [3024] [debug] [iris_rtc_music_center_impl.cc:31] IrisMusicCenterImpl Release
+[2023-05-21 13:08:55.652] [3024] [debug] [iris_rtc_music_center_wrapper.cc:28] IrisMusicContentCenterWrapper release
+[2023-05-21 13:08:55.652] [3024] [debug] [iris_rtc_engine_wrapper.cc:8191] IRtcEngineWrapper release
+[2023-05-21 13:08:55.659] [3024] [info] [rtc_engine_event_handler.cc:1316] channel abc uid 0
+[2023-05-21 13:08:55.710] [3024] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 13:08:55.710] [3024] [debug] [iris_rtc_engine_impl.cc:49] IrisRtcEngineImpl Destroy
+[2023-05-21 13:08:55.710] [3024] [debug] [iris_rtc_music_center_impl.cc:21] IrisMusiImpl Destroy
+[2023-05-21 13:08:55.710] [3024] [debug] [iris_rtc_media_recoder_impl.cc:15] IrisMediaRecoderImpl Destroy
+[2023-05-21 13:08:55.710] [3024] [debug] [iris_rtc_spatial_audio_engine_impl.cc:203] IrisLocalSpatialAudioEngineImpl Destroy
+[2023-05-21 13:08:55.710] [3024] [debug] [iris_rtc_media_player_impl.cc:28] IrisMediaPlayerImpl Destroy
+[2023-05-21 13:08:55.710] [3024] [debug] [iris_rtc_device_manager_impl.cc:25] IrisRtcDeviceManagerImpl Destroy
+[2023-05-21 15:37:52.761] [28520] [debug] [iris_logger.cc:92] ./agora-iris.log
+[2023-05-21 15:37:52.945] [28520] [debug] [iris_rtc_device_manager_impl.cc:29] IrisRtcDeviceManagerImpl Initialize
+[2023-05-21 15:37:52.953] [28520] [debug] [iris_rtc_media_player_impl.cc:32] IrisMediaPlayerImpl Initialize
+[2023-05-21 15:37:52.953] [28520] [debug] [iris_rtc_spatial_audio_engine_impl.cc:207] IrisLocalSpatialAudioEngineImpl Initialize
+[2023-05-21 15:37:52.953] [28520] [debug] [iris_rtc_media_recoder_impl.cc:19] IrisMediaRecoderImpl Initialize
+[2023-05-21 15:37:52.954] [28520] [debug] [iris_rtc_music_center_impl.cc:25] IrisMusicPlayerImpl Initialize
+[2023-05-21 15:37:52.954] [28520] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 15:37:52.962] [28520] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setAppType params {"appType":2}
+[2023-05-21 15:37:52.962] [28520] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 15:37:52.964] [28520] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_registerEventHandler params {"event":2205337824736}
+[2023-05-21 15:37:52.964] [28520] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 15:37:52.965] [28520] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_enableAudio params {}
+[2023-05-21 15:37:52.966] [28520] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 15:37:52.966] [28520] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_enableVideo params {}
+[2023-05-21 15:37:52.966] [28520] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 15:37:52.967] [28520] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setVideoEncoderConfiguration params {"config":{"advanceOptions":{"compressionPreference":0,"encodingPreference":-1},"bitrate":0,"codecType":2,"degradationPreference":0,"dimensions":{"height":360,"width":640},"frameRate":15,"minBitrate":-1,"mirrorMode":2,"orientationMode":0}}
+[2023-05-21 15:37:52.968] [28520] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 15:37:52.968] [28520] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setChannelProfile params {"profile":0}
+[2023-05-21 15:37:52.969] [28520] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 15:37:52.969] [28520] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setClientRole params {"role":1}
+[2023-05-21 15:37:52.971] [28520] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 15:37:54.383] [28520] [debug] [iris_rtc_engine_impl.cc:112] api name RtcEngine_renewToken params {"token":"006c***************AWpk"}
+[2023-05-21 15:37:54.383] [28520] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 15:40:05.772] [28520] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_startPreview params {}
+[2023-05-21 15:40:05.787] [28520] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 15:40:05.802] [28520] [debug] [iris_video_processor.cc:338] type 2 bytes_per_row 2 id 0 key 
+[2023-05-21 15:40:07.851] [28520] [debug] [iris_rtc_engine_impl.cc:112] api name RtcEngine_joinChannel params {"channelId":"abc","info":"","token":"006c***************AWpk","uid":0}
+[2023-05-21 15:40:07.907] [28520] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 15:40:08.333] [28520] [info] [rtc_engine_event_handler.cc:53] channel abc uid 34968399
+[2023-05-21 15:40:08.347] [28520] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_getVersion params {}
+[2023-05-21 15:40:08.347] [28520] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"build":248833,"result":"4.1.0"}
+[2023-05-21 15:40:20.135] [28520] [info] [rtc_engine_event_handler.cc:1524] channel abc uid 34968399 remoteUid 2254699885
+[2023-05-21 15:40:20.173] [28520] [debug] [iris_video_processor.cc:338] type 2 bytes_per_row 2 id 2254699885 key abc
+[2023-05-21 15:40:49.175] [28520] [info] [rtc_engine_event_handler.cc:1542] channel abc uid 34968399 remoteUid 2254699885
+[2023-05-21 15:40:49.186] [28520] [debug] [iris_video_processor.cc:365] uid 2254699885 key abc
+[2023-05-21 15:40:49.186] [28520] [debug] [iris_video_processor.cc:344] delegate
+[2023-05-21 16:19:16.246] [34940] [debug] [iris_logger.cc:92] ./agora-iris.log
+[2023-05-21 16:19:16.246] [34940] [debug] [iris_rtc_device_manager_impl.cc:29] IrisRtcDeviceManagerImpl Initialize
+[2023-05-21 16:19:16.248] [34940] [debug] [iris_rtc_media_player_impl.cc:32] IrisMediaPlayerImpl Initialize
+[2023-05-21 16:19:16.248] [34940] [debug] [iris_rtc_spatial_audio_engine_impl.cc:207] IrisLocalSpatialAudioEngineImpl Initialize
+[2023-05-21 16:19:16.248] [34940] [debug] [iris_rtc_media_recoder_impl.cc:19] IrisMediaRecoderImpl Initialize
+[2023-05-21 16:19:16.249] [34940] [debug] [iris_rtc_music_center_impl.cc:25] IrisMusicPlayerImpl Initialize
+[2023-05-21 16:19:16.249] [34940] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 16:19:16.249] [34940] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setAppType params {"appType":2}
+[2023-05-21 16:19:16.249] [34940] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 16:19:16.249] [34940] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_enableAudio params {}
+[2023-05-21 16:19:16.249] [34940] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 16:19:16.249] [34940] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_enableVideo params {}
+[2023-05-21 16:19:16.249] [34940] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 16:19:16.250] [34940] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setVideoEncoderConfiguration params {"config":{"advanceOptions":{"compressionPreference":0,"encodingPreference":-1},"bitrate":0,"codecType":2,"degradationPreference":0,"dimensions":{"height":360,"width":640},"frameRate":15,"minBitrate":-1,"mirrorMode":2,"orientationMode":0}}
+[2023-05-21 16:19:16.252] [34940] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 16:19:16.252] [34940] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setChannelProfile params {"profile":0}
+[2023-05-21 16:19:16.252] [34940] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 16:19:16.252] [34940] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setClientRole params {"role":1}
+[2023-05-21 16:19:16.255] [34940] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 16:19:17.625] [34940] [debug] [iris_rtc_engine_impl.cc:112] api name RtcEngine_renewToken params {"token":"006c***************Cmpk"}
+[2023-05-21 16:19:17.625] [34940] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 16:19:48.951] [34940] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_startPreview params {}
+[2023-05-21 16:19:48.989] [34940] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 16:19:49.004] [34940] [debug] [iris_video_processor.cc:338] type 2 bytes_per_row 2 id 0 key 
+[2023-05-21 16:19:51.698] [34940] [debug] [iris_rtc_engine_impl.cc:112] api name RtcEngine_joinChannel params {"channelId":"abc","info":"","token":"006c***************Cmpk","uid":0}
+[2023-05-21 16:19:51.786] [34940] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 16:19:52.315] [34940] [info] [rtc_engine_event_handler.cc:53] channel abc uid 1743561723
+[2023-05-21 16:19:52.321] [34940] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_getVersion params {}
+[2023-05-21 16:19:52.321] [34940] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"build":248833,"result":"4.1.0"}
+[2023-05-21 16:20:04.782] [34940] [info] [rtc_engine_event_handler.cc:1524] channel abc uid 1743561723 remoteUid 1184707835
+[2023-05-21 16:20:04.794] [34940] [debug] [iris_video_processor.cc:338] type 2 bytes_per_row 2 id 1184707835 key abc
+[2023-05-21 16:20:20.262] [34940] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_startPreview params {}
+[2023-05-21 16:20:20.262] [34940] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 16:20:20.263] [34940] [debug] [iris_rtc_engine_impl.cc:112] api name RtcEngine_joinChannel params {"channelId":"abc","info":"","token":"006c***************Cmpk","uid":0}
+[2023-05-21 16:20:20.263] [34940] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":-8}
+[2023-05-21 16:20:27.756] [34940] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_stopPreview params {}
+[2023-05-21 16:20:27.768] [34940] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 16:20:27.771] [34940] [debug] [iris_video_processor.cc:365] uid 0 key 
+[2023-05-21 16:20:27.771] [34940] [debug] [iris_video_processor.cc:344] delegate
+[2023-05-21 16:20:33.913] [34940] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_stopPreview params {}
+[2023-05-21 16:20:33.913] [34940] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 16:20:53.118] [34940] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_getScreenCaptureSources params {"iconSize":{"height":240,"width":360},"includeScreen":true,"thumbSize":{"height":240,"width":360}}
+[2023-05-21 16:20:53.488] [34940] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":[{"iconImage":{"buffer":0,"height":0,"length":0,"width":0},"isOccluded":false,"minimizeWindow":false,"primaryMonitor":true,"processPath":"","sourceId":0,"sourceName":"\\\\.\\DISPLAY1","sourceTitle":"\\\\.\\DISPLAY1","thumbImage":{"buffer":2410810073616,"height":220,"length":343200,"width":390},"type":1},{"iconImage":{"buffer":2410732786080,"height":40,"length":6400,"width":40},"isOccluded":false,"minimizeWindow":false,"primaryMonitor":false,"processPath":"C:\\Users\\gokul\\OneDrive\\Desktop\\Jatayu\\FinalBuild\\Jatayu.exe","sourceId":12978616,"sourceName":"Jatayu","sourceTitle":"Jatayu","thumbImage":{"buffer":2410810416832,"height":220,"length":343200,"width":390},"type":0},{"iconImage":{"buffer":2410732796624,"height":40,"length":6400,"width":40},"isOccluded":false,"minimizeWindow":false,"primaryMonitor":false,"processPath":"C:\\Windows\\explorer.exe","sourceId":34474032,"sourceName":"FinalBuild","sourceTitle":"FinalBuild","thumbImage":{"buffer":2410810760048,"height":220,"length":343200,"width":390},"type":0},{"iconImage":{"buffer":2410732803040,"height":40,"length":6400,"width":40},"isOccluded":false,"minimizeWindow":false,"primaryMonitor":false,"processPath":"C:\\Windows\\explorer.exe","sourceId":7668788,"sourceName":"Desktop","sourceTitle":"Desktop","thumbImage":{"buffer":2410811103264,"height":220,"length":343200,"width":390},"type":0},{"iconImage":{"buffer":2410732809456,"height":40,"length":6400,"width":40},"isOccluded":false,"minimizeWindow":false,"primaryMonitor":false,"processPath":"C:\\installed apps\\2021.3.11f1\\Editor\\Unity.exe","sourceId":984064,"sourceName":"Jatayu - LoadingScreen - Windows, Mac, Linux - Unity 2021.3.11f1 <DX11>","sourceTitle":"Jatayu - LoadingScreen - Windows, Mac, Linux - Unity 2021.3.11f1 <DX11>","thumbImage":{"buffer":2410811446480,"height":220,"length":343200,"width":390},"type":0},{"iconImage":{"buffer":2410732815872,"height":40,"length":6400,"width":40},"isOccluded":false,"minimizeWindow":false,"primaryMonitor":false,"processPath":"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\Common7\\IDE\\devenv.exe","sourceId":37030618,"sourceName":"Jatayu - Microsoft Visual Studio","sourceTitle":"Jatayu - Microsoft Visual Studio","thumbImage":{"buffer":2410811789696,"height":220,"length":343200,"width":390},"type":0},{"iconImage":{"buffer":2410732822288,"height":40,"length":6400,"width":40},"isOccluded":false,"minimizeWindow":false,"primaryMonitor":false,"processPath":"C:\\installed apps\\Unity Hub\\Unity Hub.exe","sourceId":10225986,"sourceName":"Unity Hub 3.4.1","sourceTitle":"Unity Hub 3.4.1","thumbImage":{"buffer":2410812132912,"height":254,"length":343408,"width":338},"type":0},{"iconImage":{"buffer":2410732828704,"height":40,"length":6400,"width":40},"isOccluded":false,"minimizeWindow":false,"primaryMonitor":false,"processPath":"C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe","sourceId":15272346,"sourceName":"Manage Jatayu | Photon Engine - Brave","sourceTitle":"Manage Jatayu | Photon Engine - Brave","thumbImage":{"buffer":2410809113584,"height":254,"length":343408,"width":338},"type":0},{"iconImage":{"buffer":2410732835120,"height":40,"length":6400,"width":40},"isOccluded":false,"minimizeWindow":false,"primaryMonitor":false,"processPath":"C:\\Program Files\\NVIDIA Corporation\\NVIDIA GeForce Experience\\NVIDIA Share.exe","sourceId":132348,"sourceName":"NVIDIA GeForce Overlay","sourceTitle":"NVIDIA GeForce Overlay","thumbImage":{"buffer":2410809457008,"height":220,"length":343200,"width":390},"type":0}],"sources":2409359728976}
+[2023-05-21 16:20:53.495] [34940] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_releaseScreenCaptureSources params {"sources":2409359728976}
+[2023-05-21 16:20:53.495] [34940] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 16:20:57.522] [34940] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_stopScreenCapture params {}
+[2023-05-21 16:20:57.523] [34940] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 16:20:57.524] [34940] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_startScreenCaptureByDisplayId params {"captureParams":{"bitrate":0,"captureMouseCursor":true,"dimensions":{"height":1080,"width":1920},"enableHighLight":false,"excludeWindowCount":0,"excludeWindowList":[],"frameRate":30,"highLightColor":0,"highLightWidth":0,"windowFocus":false},"displayId":0,"regionRect":null}
+[2023-05-21 16:20:57.597] [34940] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 16:20:57.608] [34940] [debug] [iris_video_processor.cc:338] type 2 bytes_per_row 2 id 0 key 
+[2023-05-21 16:22:38.204] [34940] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_updateChannelMediaOptions params {"options":{"publishCameraTrack":false,"publishScreenTrack":true}}
+[2023-05-21 16:22:38.223] [34940] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 16:23:27.856] [34940] [debug] [iris_video_processor.cc:365] uid 1184707835 key abc
+[2023-05-21 16:23:27.856] [34940] [debug] [iris_video_processor.cc:344] delegate
+[2023-05-21 16:23:27.856] [34940] [debug] [iris_video_processor.cc:365] uid 0 key 
+[2023-05-21 16:23:27.857] [34940] [debug] [iris_video_processor.cc:344] delegate
+[2023-05-21 16:23:27.858] [34940] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_unregisterEventHandler params {"event":2409408807488}
+[2023-05-21 16:23:27.858] [34940] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 16:23:27.860] [34940] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_release params {"sync":false}
+[2023-05-21 16:23:27.860] [34940] [debug] [iris_rtc_engine_impl.cc:233] IrisRtcEngineImpl __release
+[2023-05-21 16:23:27.860] [34940] [debug] [iris_rtc_device_manager_impl.cc:36] IrisRtcDeviceManagerImpl Release
+[2023-05-21 16:23:27.860] [34940] [debug] [iris_rtc_device_manager_wrapper.cc:791] IDeviceManagerWrapper Release
+[2023-05-21 16:23:27.861] [34940] [debug] [iris_rtc_media_player_impl.cc:43] IrisMediaPlayerImpl Release
+[2023-05-21 16:23:27.871] [34940] [debug] [iris_rtc_media_player_wrapper.cc:39] IMediaPlayerWrapper release
+[2023-05-21 16:23:27.871] [34940] [debug] [iris_rtc_spatial_audio_engine_impl.cc:214] IrisLocalSpatialAudioEngineImpl Release
+[2023-05-21 16:23:27.871] [34940] [debug] [iris_rtc_spatial_audio_engine_wrapper.cc:388] ILocalSpatialAudioEngineWrapper release
+[2023-05-21 16:23:27.871] [34940] [debug] [iris_rtc_media_recoder_impl.cc:26] IrisMediaRecoderImpl Release
+[2023-05-21 16:23:27.871] [34940] [debug] [iris_rtc_media_recoder_wrapper.cc:37] IMediaRecoderWrapper Release
+[2023-05-21 16:23:27.871] [34940] [debug] [iris_rtc_music_center_impl.cc:31] IrisMusicCenterImpl Release
+[2023-05-21 16:23:27.872] [34940] [debug] [iris_rtc_music_center_wrapper.cc:28] IrisMusicContentCenterWrapper release
+[2023-05-21 16:23:27.872] [34940] [debug] [iris_rtc_engine_wrapper.cc:8191] IRtcEngineWrapper release
+[2023-05-21 16:23:27.895] [34940] [info] [rtc_engine_event_handler.cc:1316] channel abc uid 1743561723
+[2023-05-21 16:23:27.961] [34940] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 16:23:27.961] [34940] [debug] [iris_rtc_engine_impl.cc:49] IrisRtcEngineImpl Destroy
+[2023-05-21 16:23:27.961] [34940] [debug] [iris_rtc_music_center_impl.cc:21] IrisMusiImpl Destroy
+[2023-05-21 16:23:27.961] [34940] [debug] [iris_rtc_media_recoder_impl.cc:15] IrisMediaRecoderImpl Destroy
+[2023-05-21 16:23:27.961] [34940] [debug] [iris_rtc_spatial_audio_engine_impl.cc:203] IrisLocalSpatialAudioEngineImpl Destroy
+[2023-05-21 16:23:27.961] [34940] [debug] [iris_rtc_media_player_impl.cc:28] IrisMediaPlayerImpl Destroy
+[2023-05-21 16:23:27.961] [34940] [debug] [iris_rtc_device_manager_impl.cc:25] IrisRtcDeviceManagerImpl Destroy
+[2023-05-21 16:34:19.039] [17796] [debug] [iris_logger.cc:92] ./agora-iris.log
+[2023-05-21 16:34:19.039] [17796] [debug] [iris_rtc_device_manager_impl.cc:29] IrisRtcDeviceManagerImpl Initialize
+[2023-05-21 16:34:19.041] [17796] [debug] [iris_rtc_media_player_impl.cc:32] IrisMediaPlayerImpl Initialize
+[2023-05-21 16:34:19.041] [17796] [debug] [iris_rtc_spatial_audio_engine_impl.cc:207] IrisLocalSpatialAudioEngineImpl Initialize
+[2023-05-21 16:34:19.041] [17796] [debug] [iris_rtc_media_recoder_impl.cc:19] IrisMediaRecoderImpl Initialize
+[2023-05-21 16:34:19.042] [17796] [debug] [iris_rtc_music_center_impl.cc:25] IrisMusicPlayerImpl Initialize
+[2023-05-21 16:34:19.042] [17796] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 16:34:19.042] [17796] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setAppType params {"appType":2}
+[2023-05-21 16:34:19.042] [17796] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 16:34:19.042] [17796] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_enableAudio params {}
+[2023-05-21 16:34:19.042] [17796] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 16:34:19.042] [17796] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_enableVideo params {}
+[2023-05-21 16:34:19.043] [17796] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 16:34:19.043] [17796] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setVideoEncoderConfiguration params {"config":{"advanceOptions":{"compressionPreference":0,"encodingPreference":-1},"bitrate":0,"codecType":2,"degradationPreference":0,"dimensions":{"height":360,"width":640},"frameRate":15,"minBitrate":-1,"mirrorMode":2,"orientationMode":0}}
+[2023-05-21 16:34:19.044] [17796] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 16:34:19.044] [17796] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setChannelProfile params {"profile":0}
+[2023-05-21 16:34:19.044] [17796] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 16:34:19.044] [17796] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setClientRole params {"role":1}
+[2023-05-21 16:34:19.047] [17796] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 16:34:20.495] [17796] [debug] [iris_rtc_engine_impl.cc:112] api name RtcEngine_renewToken params {"token":"006c***************Dmpk"}
+[2023-05-21 16:34:20.495] [17796] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 17:01:45.074] [17796] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_unregisterEventHandler params {"event":2179893851424}
+[2023-05-21 17:01:45.074] [17796] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 17:01:45.077] [17796] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_release params {"sync":false}
+[2023-05-21 17:01:45.077] [17796] [debug] [iris_rtc_engine_impl.cc:233] IrisRtcEngineImpl __release
+[2023-05-21 17:01:45.077] [17796] [debug] [iris_rtc_device_manager_impl.cc:36] IrisRtcDeviceManagerImpl Release
+[2023-05-21 17:01:45.077] [17796] [debug] [iris_rtc_device_manager_wrapper.cc:791] IDeviceManagerWrapper Release
+[2023-05-21 17:01:45.077] [17796] [debug] [iris_rtc_media_player_impl.cc:43] IrisMediaPlayerImpl Release
+[2023-05-21 17:01:45.077] [17796] [debug] [iris_rtc_media_player_wrapper.cc:39] IMediaPlayerWrapper release
+[2023-05-21 17:01:45.077] [17796] [debug] [iris_rtc_spatial_audio_engine_impl.cc:214] IrisLocalSpatialAudioEngineImpl Release
+[2023-05-21 17:01:45.077] [17796] [debug] [iris_rtc_spatial_audio_engine_wrapper.cc:388] ILocalSpatialAudioEngineWrapper release
+[2023-05-21 17:01:45.077] [17796] [debug] [iris_rtc_media_recoder_impl.cc:26] IrisMediaRecoderImpl Release
+[2023-05-21 17:01:45.077] [17796] [debug] [iris_rtc_media_recoder_wrapper.cc:37] IMediaRecoderWrapper Release
+[2023-05-21 17:01:45.077] [17796] [debug] [iris_rtc_music_center_impl.cc:31] IrisMusicCenterImpl Release
+[2023-05-21 17:01:45.077] [17796] [debug] [iris_rtc_music_center_wrapper.cc:28] IrisMusicContentCenterWrapper release
+[2023-05-21 17:01:45.077] [17796] [debug] [iris_rtc_engine_wrapper.cc:8191] IRtcEngineWrapper release
+[2023-05-21 17:01:45.087] [17796] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 17:01:45.087] [17796] [debug] [iris_rtc_engine_impl.cc:49] IrisRtcEngineImpl Destroy
+[2023-05-21 17:01:45.088] [17796] [debug] [iris_rtc_music_center_impl.cc:21] IrisMusiImpl Destroy
+[2023-05-21 17:01:45.088] [17796] [debug] [iris_rtc_media_recoder_impl.cc:15] IrisMediaRecoderImpl Destroy
+[2023-05-21 17:01:45.088] [17796] [debug] [iris_rtc_spatial_audio_engine_impl.cc:203] IrisLocalSpatialAudioEngineImpl Destroy
+[2023-05-21 17:01:45.088] [17796] [debug] [iris_rtc_media_player_impl.cc:28] IrisMediaPlayerImpl Destroy
+[2023-05-21 17:01:45.088] [17796] [debug] [iris_rtc_device_manager_impl.cc:25] IrisRtcDeviceManagerImpl Destroy
+[2023-05-21 19:14:15.722] [3496] [debug] [iris_logger.cc:92] ./agora-iris.log
+[2023-05-21 19:14:15.722] [3496] [debug] [iris_rtc_device_manager_impl.cc:29] IrisRtcDeviceManagerImpl Initialize
+[2023-05-21 19:14:15.726] [3496] [debug] [iris_rtc_media_player_impl.cc:32] IrisMediaPlayerImpl Initialize
+[2023-05-21 19:14:15.726] [3496] [debug] [iris_rtc_spatial_audio_engine_impl.cc:207] IrisLocalSpatialAudioEngineImpl Initialize
+[2023-05-21 19:14:15.726] [3496] [debug] [iris_rtc_media_recoder_impl.cc:19] IrisMediaRecoderImpl Initialize
+[2023-05-21 19:14:15.726] [3496] [debug] [iris_rtc_music_center_impl.cc:25] IrisMusicPlayerImpl Initialize
+[2023-05-21 19:14:15.726] [3496] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 19:14:15.727] [3496] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setAppType params {"appType":2}
+[2023-05-21 19:14:15.727] [3496] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 19:14:15.727] [3496] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_enableAudio params {}
+[2023-05-21 19:14:15.727] [3496] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 19:14:15.727] [3496] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_enableVideo params {}
+[2023-05-21 19:14:15.727] [3496] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 19:14:15.728] [3496] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setVideoEncoderConfiguration params {"config":{"advanceOptions":{"compressionPreference":0,"encodingPreference":-1},"bitrate":0,"codecType":2,"degradationPreference":0,"dimensions":{"height":360,"width":640},"frameRate":15,"minBitrate":-1,"mirrorMode":2,"orientationMode":0}}
+[2023-05-21 19:14:15.729] [3496] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 19:14:15.729] [3496] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setChannelProfile params {"profile":0}
+[2023-05-21 19:14:15.729] [3496] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 19:14:15.729] [3496] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setClientRole params {"role":1}
+[2023-05-21 19:14:15.732] [3496] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 19:14:17.021] [3496] [debug] [iris_rtc_engine_impl.cc:112] api name RtcEngine_renewToken params {"token":"006c***************M2pk"}
+[2023-05-21 19:14:17.022] [3496] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 19:15:09.446] [3496] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_leaveChannel params {}
+[2023-05-21 19:15:09.446] [3496] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 19:15:09.447] [3496] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_unregisterEventHandler params {"event":2019036496768}
+[2023-05-21 19:15:09.447] [3496] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 19:15:09.450] [3496] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_release params {"sync":false}
+[2023-05-21 19:15:09.450] [3496] [debug] [iris_rtc_engine_impl.cc:233] IrisRtcEngineImpl __release
+[2023-05-21 19:15:09.450] [3496] [debug] [iris_rtc_device_manager_impl.cc:36] IrisRtcDeviceManagerImpl Release
+[2023-05-21 19:15:09.450] [3496] [debug] [iris_rtc_device_manager_wrapper.cc:791] IDeviceManagerWrapper Release
+[2023-05-21 19:15:09.450] [3496] [debug] [iris_rtc_media_player_impl.cc:43] IrisMediaPlayerImpl Release
+[2023-05-21 19:15:09.450] [3496] [debug] [iris_rtc_media_player_wrapper.cc:39] IMediaPlayerWrapper release
+[2023-05-21 19:15:09.450] [3496] [debug] [iris_rtc_spatial_audio_engine_impl.cc:214] IrisLocalSpatialAudioEngineImpl Release
+[2023-05-21 19:15:09.450] [3496] [debug] [iris_rtc_spatial_audio_engine_wrapper.cc:388] ILocalSpatialAudioEngineWrapper release
+[2023-05-21 19:15:09.450] [3496] [debug] [iris_rtc_media_recoder_impl.cc:26] IrisMediaRecoderImpl Release
+[2023-05-21 19:15:09.450] [3496] [debug] [iris_rtc_media_recoder_wrapper.cc:37] IMediaRecoderWrapper Release
+[2023-05-21 19:15:09.450] [3496] [debug] [iris_rtc_music_center_impl.cc:31] IrisMusicCenterImpl Release
+[2023-05-21 19:15:09.450] [3496] [debug] [iris_rtc_music_center_wrapper.cc:28] IrisMusicContentCenterWrapper release
+[2023-05-21 19:15:09.450] [3496] [debug] [iris_rtc_engine_wrapper.cc:8191] IRtcEngineWrapper release
+[2023-05-21 19:15:09.460] [3496] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 19:15:09.460] [3496] [debug] [iris_rtc_engine_impl.cc:49] IrisRtcEngineImpl Destroy
+[2023-05-21 19:15:09.460] [3496] [debug] [iris_rtc_music_center_impl.cc:21] IrisMusiImpl Destroy
+[2023-05-21 19:15:09.460] [3496] [debug] [iris_rtc_media_recoder_impl.cc:15] IrisMediaRecoderImpl Destroy
+[2023-05-21 19:15:09.460] [3496] [debug] [iris_rtc_spatial_audio_engine_impl.cc:203] IrisLocalSpatialAudioEngineImpl Destroy
+[2023-05-21 19:15:09.460] [3496] [debug] [iris_rtc_media_player_impl.cc:28] IrisMediaPlayerImpl Destroy
+[2023-05-21 19:15:09.460] [3496] [debug] [iris_rtc_device_manager_impl.cc:25] IrisRtcDeviceManagerImpl Destroy
+[2023-05-21 19:15:39.944] [3496] [debug] [iris_rtc_engine_impl.cc:79] IrisRtcEngineImpl Initialize
+[2023-05-21 19:15:40.101] [3496] [debug] [iris_logger.cc:92] ./agora-iris.log
+[2023-05-21 19:15:40.101] [3496] [debug] [iris_rtc_device_manager_impl.cc:29] IrisRtcDeviceManagerImpl Initialize
+[2023-05-21 19:15:40.105] [3496] [debug] [iris_rtc_media_player_impl.cc:32] IrisMediaPlayerImpl Initialize
+[2023-05-21 19:15:40.105] [3496] [debug] [iris_rtc_spatial_audio_engine_impl.cc:207] IrisLocalSpatialAudioEngineImpl Initialize
+[2023-05-21 19:15:40.105] [3496] [debug] [iris_rtc_media_recoder_impl.cc:19] IrisMediaRecoderImpl Initialize
+[2023-05-21 19:15:40.105] [3496] [debug] [iris_rtc_music_center_impl.cc:25] IrisMusicPlayerImpl Initialize
+[2023-05-21 19:15:40.105] [3496] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 19:15:40.105] [3496] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setAppType params {"appType":2}
+[2023-05-21 19:15:40.105] [3496] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 19:15:40.105] [3496] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_enableAudio params {}
+[2023-05-21 19:15:40.105] [3496] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 19:15:40.105] [3496] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_enableVideo params {}
+[2023-05-21 19:15:40.105] [3496] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 19:15:40.106] [3496] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setVideoEncoderConfiguration params {"config":{"advanceOptions":{"compressionPreference":0,"encodingPreference":-1},"bitrate":0,"codecType":2,"degradationPreference":0,"dimensions":{"height":360,"width":640},"frameRate":15,"minBitrate":-1,"mirrorMode":2,"orientationMode":0}}
+[2023-05-21 19:15:40.106] [3496] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 19:15:40.106] [3496] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setChannelProfile params {"profile":0}
+[2023-05-21 19:15:40.106] [3496] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 19:15:40.106] [3496] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setClientRole params {"role":1}
+[2023-05-21 19:15:40.110] [3496] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 19:15:40.394] [3496] [debug] [iris_rtc_engine_impl.cc:112] api name RtcEngine_renewToken params {"token":"006c***************NGpk"}
+[2023-05-21 19:15:40.394] [3496] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 19:16:28.174] [3496] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_unregisterEventHandler params {"event":2018966555600}
+[2023-05-21 19:16:28.174] [3496] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 19:16:28.174] [3496] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_release params {"sync":false}
+[2023-05-21 19:16:28.174] [3496] [debug] [iris_rtc_engine_impl.cc:233] IrisRtcEngineImpl __release
+[2023-05-21 19:16:28.174] [3496] [debug] [iris_rtc_device_manager_impl.cc:36] IrisRtcDeviceManagerImpl Release
+[2023-05-21 19:16:28.174] [3496] [debug] [iris_rtc_device_manager_wrapper.cc:791] IDeviceManagerWrapper Release
+[2023-05-21 19:16:28.174] [3496] [debug] [iris_rtc_media_player_impl.cc:43] IrisMediaPlayerImpl Release
+[2023-05-21 19:16:28.174] [3496] [debug] [iris_rtc_media_player_wrapper.cc:39] IMediaPlayerWrapper release
+[2023-05-21 19:16:28.174] [3496] [debug] [iris_rtc_spatial_audio_engine_impl.cc:214] IrisLocalSpatialAudioEngineImpl Release
+[2023-05-21 19:16:28.174] [3496] [debug] [iris_rtc_spatial_audio_engine_wrapper.cc:388] ILocalSpatialAudioEngineWrapper release
+[2023-05-21 19:16:28.174] [3496] [debug] [iris_rtc_media_recoder_impl.cc:26] IrisMediaRecoderImpl Release
+[2023-05-21 19:16:28.174] [3496] [debug] [iris_rtc_media_recoder_wrapper.cc:37] IMediaRecoderWrapper Release
+[2023-05-21 19:16:28.174] [3496] [debug] [iris_rtc_music_center_impl.cc:31] IrisMusicCenterImpl Release
+[2023-05-21 19:16:28.174] [3496] [debug] [iris_rtc_music_center_wrapper.cc:28] IrisMusicContentCenterWrapper release
+[2023-05-21 19:16:28.174] [3496] [debug] [iris_rtc_engine_wrapper.cc:8191] IRtcEngineWrapper release
+[2023-05-21 19:16:28.185] [3496] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 19:16:28.185] [3496] [debug] [iris_rtc_engine_impl.cc:49] IrisRtcEngineImpl Destroy
+[2023-05-21 19:16:28.185] [3496] [debug] [iris_rtc_music_center_impl.cc:21] IrisMusiImpl Destroy
+[2023-05-21 19:16:28.185] [3496] [debug] [iris_rtc_media_recoder_impl.cc:15] IrisMediaRecoderImpl Destroy
+[2023-05-21 19:16:28.185] [3496] [debug] [iris_rtc_spatial_audio_engine_impl.cc:203] IrisLocalSpatialAudioEngineImpl Destroy
+[2023-05-21 19:16:28.185] [3496] [debug] [iris_rtc_media_player_impl.cc:28] IrisMediaPlayerImpl Destroy
+[2023-05-21 19:16:28.185] [3496] [debug] [iris_rtc_device_manager_impl.cc:25] IrisRtcDeviceManagerImpl Destroy
+[2023-05-21 20:34:48.200] [18524] [debug] [iris_logger.cc:92] ./agora-iris.log
+[2023-05-21 20:34:48.200] [18524] [debug] [iris_rtc_device_manager_impl.cc:29] IrisRtcDeviceManagerImpl Initialize
+[2023-05-21 20:34:48.204] [18524] [debug] [iris_rtc_media_player_impl.cc:32] IrisMediaPlayerImpl Initialize
+[2023-05-21 20:34:48.204] [18524] [debug] [iris_rtc_spatial_audio_engine_impl.cc:207] IrisLocalSpatialAudioEngineImpl Initialize
+[2023-05-21 20:34:48.204] [18524] [debug] [iris_rtc_media_recoder_impl.cc:19] IrisMediaRecoderImpl Initialize
+[2023-05-21 20:34:48.204] [18524] [debug] [iris_rtc_music_center_impl.cc:25] IrisMusicPlayerImpl Initialize
+[2023-05-21 20:34:48.204] [18524] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 20:34:48.204] [18524] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setAppType params {"appType":2}
+[2023-05-21 20:34:48.204] [18524] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 20:34:48.205] [18524] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_enableAudio params {}
+[2023-05-21 20:34:48.205] [18524] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 20:34:48.205] [18524] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_enableVideo params {}
+[2023-05-21 20:34:48.205] [18524] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 20:34:48.205] [18524] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setVideoEncoderConfiguration params {"config":{"advanceOptions":{"compressionPreference":0,"encodingPreference":-1},"bitrate":0,"codecType":2,"degradationPreference":0,"dimensions":{"height":360,"width":640},"frameRate":15,"minBitrate":-1,"mirrorMode":2,"orientationMode":0}}
+[2023-05-21 20:34:48.207] [18524] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 20:34:48.207] [18524] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setChannelProfile params {"profile":0}
+[2023-05-21 20:34:48.207] [18524] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 20:34:48.207] [18524] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_setClientRole params {"role":1}
+[2023-05-21 20:34:48.210] [18524] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 20:34:49.753] [18524] [debug] [iris_rtc_engine_impl.cc:112] api name RtcEngine_renewToken params {"token":"006c***************Rmpk"}
+[2023-05-21 20:34:49.753] [18524] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 20:34:54.076] [18524] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_unregisterEventHandler params {"event":3026238796592}
+[2023-05-21 20:34:54.076] [18524] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 20:34:54.080] [18524] [debug] [iris_rtc_engine_impl.cc:114] api name RtcEngine_release params {"sync":false}
+[2023-05-21 20:34:54.080] [18524] [debug] [iris_rtc_engine_impl.cc:233] IrisRtcEngineImpl __release
+[2023-05-21 20:34:54.080] [18524] [debug] [iris_rtc_device_manager_impl.cc:36] IrisRtcDeviceManagerImpl Release
+[2023-05-21 20:34:54.080] [18524] [debug] [iris_rtc_device_manager_wrapper.cc:791] IDeviceManagerWrapper Release
+[2023-05-21 20:34:54.080] [18524] [debug] [iris_rtc_media_player_impl.cc:43] IrisMediaPlayerImpl Release
+[2023-05-21 20:34:54.080] [18524] [debug] [iris_rtc_media_player_wrapper.cc:39] IMediaPlayerWrapper release
+[2023-05-21 20:34:54.080] [18524] [debug] [iris_rtc_spatial_audio_engine_impl.cc:214] IrisLocalSpatialAudioEngineImpl Release
+[2023-05-21 20:34:54.080] [18524] [debug] [iris_rtc_spatial_audio_engine_wrapper.cc:388] ILocalSpatialAudioEngineWrapper release
+[2023-05-21 20:34:54.080] [18524] [debug] [iris_rtc_media_recoder_impl.cc:26] IrisMediaRecoderImpl Release
+[2023-05-21 20:34:54.080] [18524] [debug] [iris_rtc_media_recoder_wrapper.cc:37] IMediaRecoderWrapper Release
+[2023-05-21 20:34:54.080] [18524] [debug] [iris_rtc_music_center_impl.cc:31] IrisMusicCenterImpl Release
+[2023-05-21 20:34:54.080] [18524] [debug] [iris_rtc_music_center_wrapper.cc:28] IrisMusicContentCenterWrapper release
+[2023-05-21 20:34:54.081] [18524] [debug] [iris_rtc_engine_wrapper.cc:8191] IRtcEngineWrapper release
+[2023-05-21 20:34:54.100] [18524] [debug] [iris_rtc_engine_impl.cc:132] ret 0 result {"result":0}
+[2023-05-21 20:34:54.100] [18524] [debug] [iris_rtc_engine_impl.cc:49] IrisRtcEngineImpl Destroy
+[2023-05-21 20:34:54.100] [18524] [debug] [iris_rtc_music_center_impl.cc:21] IrisMusiImpl Destroy
+[2023-05-21 20:34:54.100] [18524] [debug] [iris_rtc_media_recoder_impl.cc:15] IrisMediaRecoderImpl Destroy
+[2023-05-21 20:34:54.100] [18524] [debug] [iris_rtc_spatial_audio_engine_impl.cc:203] IrisLocalSpatialAudioEngineImpl Destroy
+[2023-05-21 20:34:54.100] [18524] [debug] [iris_rtc_media_player_impl.cc:28] IrisMediaPlayerImpl Destroy
+[2023-05-21 20:34:54.100] [18524] [debug] [iris_rtc_device_manager_impl.cc:25] IrisRtcDeviceManagerImpl Destroy
